@@ -1,2 +1,2 @@
 # Data-analysis
-All pproject about data analyst
+All project about data analyst I've been doing
